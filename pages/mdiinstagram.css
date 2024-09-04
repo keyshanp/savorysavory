@@ -1,0 +1,8 @@
+.mdiinstagram .vector {
+  width: 64.2px;
+  height: 64.2px;
+}
+.mdiinstagram {
+  display: flex;
+  box-sizing: border-box;
+}

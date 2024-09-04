@@ -1,0 +1,318 @@
+.faq .untitled-design-15 {
+  background: url('../assets/images/untitled_design_13.png');
+  background-position: center top;
+  background-size: 100% 200%;
+  width: 150px;
+  height: 70px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.faq .savory {
+  margin: 10px 0 22px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lavishly Yours';
+  font-weight: 400;
+  font-size: 40px;
+  color: #A69393;
+}
+.faq .container-5 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.faq .home {
+  margin-right: 5.4px;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.faq .container-3 {
+  width: 13px;
+  height: 7.2px;
+}
+.faq .weuiarrow-outlined {
+  transform: rotate(89.76deg);
+  margin: 14.5px 0 8.3px 0;
+  display: flex;
+  width: 12px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.faq .group-20 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.faq .about {
+  margin-right: 6.2px;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.faq .container-2 {
+  width: 13px;
+  height: 7.2px;
+}
+.faq .weuiarrow-outlined-1 {
+  transform: rotate(89.76deg);
+  margin: 14.5px 0 8.3px 0;
+  display: flex;
+  width: 12px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.faq .group-21 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.faq .product {
+  margin-right: 5.9px;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.faq .container {
+  width: 13px;
+  height: 7.2px;
+}
+.faq .weuiarrow-outlined-2 {
+  transform: rotate(89.76deg);
+  margin: 14.5px 0 8.3px 0;
+  display: flex;
+  width: 12px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.faq .group-22 {
+  margin: 1px 26.5px 0 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.faq .faq-1 {
+  margin-right: 13.2px;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.faq .container-6 {
+  width: 13px;
+  height: 7.2px;
+}
+.faq .weuiarrow-outlined-3 {
+  transform: rotate(89.76deg);
+  margin: 14.5px 0 8.3px 0;
+  display: flex;
+  width: 12px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.faq .group-23 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.faq .container-4 {
+  margin: 35px 0 30px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 512.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.faq .group {
+  width: 76.1px;
+  height: 76.1px;
+}
+.faq .ggprofile {
+  margin: 12.5px 0 7.5px 0;
+  display: flex;
+  width: 83px;
+  height: 83px;
+  box-sizing: border-box;
+}
+.faq .container-1 {
+  background: #F5EDED;
+  position: relative;
+  margin-bottom: 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 23px 80.5px 22px 54px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.faq .faqs {
+  margin-bottom: 11px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 80px;
+  color: #483C3C;
+}
+.faq .line-1 {
+  background: #000000;
+  margin: 0 0px 113px 0;
+  width: 250px;
+  height: 0px;
+}
+.faq .cara-pesennya-gimana-kak {
+  margin: 0 7px 41px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 50px;
+  color: #483C3C;
+}
+.faq .bisa-cek-dan-dm-instagram-kami-ya {
+  margin: 0 7.3px 90px 7.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #757575;
+}
+.faq .kalo-mau-custom-sendiri-gimana-kak {
+  margin: 0 6.6px 41px 6.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 50px;
+  color: #483C3C;
+}
+.faq .dm-instagram-kami-dan-nanti-kami-akan-berikan-formatnya {
+  margin: 0 0 90px 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #757575;
+}
+.faq .estimasi-pengerjaannya-berapa-lama-kak {
+  margin: 0 7px 44px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 50px;
+  color: #483C3C;
+}
+.faq .untuk-estimasi-pengerjaan-57-hari-tergantung-design-dan-kesulitan {
+  margin: 0 8px 90px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #757575;
+}
+.faq .apakah-ada-maksimal-atau-minimal-order {
+  margin-bottom: 44px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 50px;
+  color: #483C3C;
+}
+.faq .untuk-gelang-tidak-ada-untuk-stiker-minimal-order-5-pcs {
+  margin: 0 1px 90px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #757575;
+}
+.faq .range-harga-berapa-kak {
+  margin: 0 1px 44px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 50px;
+  color: #483C3C;
+}
+.faq .range-harga-tergantung-design-dan-jumlah-pembelian-ya {
+  margin: 0 2px 90px 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #757575;
+}
+.faq .pembayaran-bisa-lewat-mana-kak {
+  margin-bottom: 44px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 50px;
+  color: #483C3C;
+}
+.faq .untuk-pembayaran-bisa-cash-mandiri-dan-qris {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #757575;
+}
+.faq .container-7 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 59px 0 58px;
+  display: flex;
+  flex-direction: column;
+  padding: 110px 121px 116px 99px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.faq {
+  background: linear-gradient(0deg, #FEADA6, #F5EFEF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 492px;
+  width: 1690px;
+  height: 2400px;
+  box-sizing: border-box;
+}
+body {
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}

@@ -1,0 +1,25 @@
+.group-13 .product {
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 30px;
+  color: #757575;
+}
+.group-13 .container {
+  width: 13px;
+  height: 7.2px;
+}
+.group-13 .weuiarrow-outlined {
+  transform: rotate(89.76deg);
+  margin: 14.5px 0 8.3px 0;
+  display: flex;
+  width: 12px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.group-13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
